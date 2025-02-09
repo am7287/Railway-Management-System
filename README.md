@@ -28,3 +28,6 @@ MySQL,
 SQL (DDL, DML, DCL, TCL),
 Database Normalization Techniques,
 ACID Transaction Management
+
+## Contributor:
+Dev Aditya Singh
