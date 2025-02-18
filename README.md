@@ -3,7 +3,7 @@
 ## Description
 The Railway Management System (RMS) is a comprehensive database solution designed to streamline and optimize train operations, enhance safety measures, and improve the overall passenger experience. This project implements a robust database structure using MySQL to manage various aspects of railway operations, including train schedules, passenger bookings, station information, and route management etc.
 
-If there are any issues accessing the database, refer to the attached PNG files.
+If there are any issues accessing the database, refer to the attached PNG files for outputs in MySQL Workbench.
 
 ## Features
 User Management
